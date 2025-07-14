@@ -82,6 +82,6 @@ README.md: Overview of the analysis project (this file)
 📬 Author
 Grace Bolu David
 Junior Data Analyst | RetailTech Insights
-📧 Contact: [YourEmail@example.com]
+📧 Contact: [geebolu22@gmail.com]
 
 ![20250714_233802](https://github.com/user-attachments/assets/c5c80577-e1af-44c5-a702-297cd2026782)
